@@ -10,7 +10,7 @@ typedef struct POINT {
 	GLfloat x;
 	GLfloat y;
 } Point;
-
+//add new cooment
 void function1(float VecDeg, float VecSize, Point* p);
 float function2(float a);
 void drawCirlce(float radius);
